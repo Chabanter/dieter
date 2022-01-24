@@ -71,3 +71,63 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  /* Container holding the image and the text */
+.bg {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+  /* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+
+  .god{
+    margin-left: 1800px;
+    margin-top: 125px;
+    position: absolute;
+  }
+  .bijbel{
+    margin-left: 1800px;
+    margin-top: 417px;
+    position: absolute;
+  }
+  .dopen{
+    margin-left: 1800px;
+    margin-top: 878px;
+    position: absolute;
+  }
+  .hostie{
+    margin-left: 1800px;
+    margin-top: 1350px;
+    position: absolute;
+  }
+  .amen{
+    margin-left: 1800px;
+    margin-top: 1636px;
+    position: absolute;
+  }
+  .biechten{
+    margin-left: 1800px;
+    margin-top: 1959px;
+    position: absolute;
+  }
+
+  body{
+      background-color:#f0f9f8 ;
+ 
+  }
+
+  footer {
+    background-color: #ACE1AF;
+    padding: 30px;
+    text-align: center;
+    color: white;
+  }
+
+
+ 
