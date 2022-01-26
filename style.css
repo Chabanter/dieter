@@ -87,32 +87,32 @@
   }
 
   .god{
-    margin-left: 1800px;
+    margin-left: 1300px;
     margin-top: 125px;
     position: absolute;
   }
   .bijbel{
-    margin-left: 1800px;
+    margin-left: 1300px;
     margin-top: 417px;
     position: absolute;
   }
   .dopen{
-    margin-left: 1800px;
+    margin-left: 1300px;
     margin-top: 878px;
     position: absolute;
   }
   .hostie{
-    margin-left: 1800px;
+    margin-left: 1300px;
     margin-top: 1350px;
     position: absolute;
   }
   .amen{
-    margin-left: 1800px;
+    margin-left: 1300px;
     margin-top: 1636px;
     position: absolute;
   }
   .biechten{
-    margin-left: 1800px;
+    margin-left: 1300px;
     margin-top: 1959px;
     position: absolute;
   }
@@ -130,19 +130,21 @@
   }
 
   .christen_home{
-    margin-left: 1950px;
+    margin-left: 1710px;
     margin-top: 350px;
     position: absolute;
   }
+  
 
   .hindoe_home{
-    margin-left: 1050px;
+    margin-left: 868px;
     margin-top: 350px;
     position: absolute;
   }
+  
 
   .islam_home{
-    margin-left: 100px;
+    margin-left: 30px;
     margin-top: 350px;
     position: absolute;
   }
